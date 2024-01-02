@@ -1,3 +1,8 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.0.0/css/flag-icons.min.css"
+/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sarkhanhajibayov.sarkhanhajibayov" />
 
 <h1 align="center">
