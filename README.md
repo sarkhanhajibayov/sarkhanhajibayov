@@ -13,4 +13,4 @@
  </h3>
 
 <br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" alt="Flag of United States" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Flag of United States" width="20">
