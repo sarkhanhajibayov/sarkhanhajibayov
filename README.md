@@ -5,19 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=337CCF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarkhan+Hajibayov!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Azerbaijan 🇦🇿 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Flag of Azerbaijan" width="30">
+<h3 align="center">A passionate full stack developer from Azerbaijan 🇦🇿 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" alt="Flag of Azerbaijan" width="30">
 </h3>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <h3>About Me:</h3>
-    
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <h3>About Me</h3>
+     
+ 🌱 I’m currently learning **React,.NET**
 
 
  </div>
