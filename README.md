@@ -11,11 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <h3>About Me</h3>
-     
- 🌱 I’m currently learning **React,.NET**
-
-
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <
  </div>
  
 <div align="center"> 
