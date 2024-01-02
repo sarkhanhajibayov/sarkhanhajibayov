@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:**
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <h3>About Me:</h3>
     
  🔭 I’m currently working on **a marketplace**
  
