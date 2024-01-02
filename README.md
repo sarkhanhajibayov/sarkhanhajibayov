@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=337CCF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarkhan+Hajibayov!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Azerbaijan <span class="fi fi-gr"></span> <span class="fi fi-gr fis"></span>
+<h3 align="center">A passionate software developer from Azerbaijan :us:
  </h3>
 
 <br/>
